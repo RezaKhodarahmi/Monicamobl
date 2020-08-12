@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/%7BMonicamobl%7D/static/css/main.f6fdbfaa.chunk.css",
+    "main.js": "/%7BMonicamobl%7D/static/js/main.8d239ee8.chunk.js",
+    "main.js.map": "/%7BMonicamobl%7D/static/js/main.8d239ee8.chunk.js.map",
+    "runtime-main.js": "/%7BMonicamobl%7D/static/js/runtime-main.edee002c.js",
+    "runtime-main.js.map": "/%7BMonicamobl%7D/static/js/runtime-main.edee002c.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/%7BMonicamobl%7D/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.b64e29a3.chunk.js": "/%7BMonicamobl%7D/static/js/2.b64e29a3.chunk.js",
+    "static/js/2.b64e29a3.chunk.js.map": "/%7BMonicamobl%7D/static/js/2.b64e29a3.chunk.js.map",
+    "index.html": "/%7BMonicamobl%7D/index.html",
+    "precache-manifest.c8729c0a16299c136cf91c2b8d1a366e.js": "/%7BMonicamobl%7D/precache-manifest.c8729c0a16299c136cf91c2b8d1a366e.js",
+    "service-worker.js": "/%7BMonicamobl%7D/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/%7BMonicamobl%7D/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.f6fdbfaa.chunk.css.map": "/%7BMonicamobl%7D/static/css/main.f6fdbfaa.chunk.css.map",
+    "static/js/2.b64e29a3.chunk.js.LICENSE.txt": "/%7BMonicamobl%7D/static/js/2.b64e29a3.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/%7BMonicamobl%7D/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.edee002c.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.b64e29a3.chunk.js",
+    "static/css/main.f6fdbfaa.chunk.css",
+    "static/js/main.8d239ee8.chunk.js"
+  ]
+}
