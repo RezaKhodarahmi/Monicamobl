@@ -1,0 +1,9 @@
+.details-card{
+    background-color: #ffffff!important;
+}
+
+@media only screen and(max-width:600px){
+    .product-slider-sm{
+        display: none!important;
+    }
+}

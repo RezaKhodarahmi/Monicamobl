@@ -1,0 +1,22 @@
+ :root {
+   --mainWhite: #F5F5F5;
+     --mainBlue:#2a2a72;
+  --lightBlue:#009ffd;
+  
+  --mainDark:#232528;
+  --mainYellow:#ffa400;
+ }
+ p,h1,h2,h3,h4,h5,h6,span{
+  font-family: 'yekan', sans-serif !important;
+ }
+
+ body {
+   width: 100%;
+   background-color: var(--mainWhite)!important;
+   font-family: 'yekan' !important;
+ }
+
+ a {
+   text-decoration: none!important;
+   font-weight: 600;
+ }
